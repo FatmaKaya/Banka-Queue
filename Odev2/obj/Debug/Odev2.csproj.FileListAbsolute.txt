@@ -1,0 +1,13 @@
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Veri Yapıları\LinkedList\Odev2\Odev2\bin\Debug\Odev2.exe.config
+C:\Users\ASUS\Desktop\Ödev\Odev2\Odev2\bin\Debug\Odev2.exe.config
+C:\Users\ASUS\Desktop\Ödev\Odev2\Odev2\bin\Debug\Odev2.exe
+C:\Users\ASUS\Desktop\Ödev\Odev2\Odev2\bin\Debug\Odev2.pdb
+C:\Users\ASUS\Desktop\Ödev\Odev2\Odev2\obj\Debug\Odev2.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\Ödev\Odev2\Odev2\obj\Debug\Odev2.Form1.resources
+C:\Users\ASUS\Desktop\Ödev\Odev2\Odev2\obj\Debug\Odev2.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Ödev\Odev2\Odev2\obj\Debug\Odev2.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\Ödev\Odev2\Odev2\obj\Debug\Odev2.exe
+C:\Users\ASUS\Desktop\Ödev\Odev2\Odev2\obj\Debug\Odev2.pdb
+C:\Users\ASUS\Desktop\FATMA KAYA-142804016-Odev2\Odev2\bin\Debug\Odev2.exe.config
+C:\Users\ASUS\Desktop\FATMA KAYA-142804016-Odev2\Odev2\obj\Debug\Odev2.exe
+C:\Users\ASUS\Desktop\FATMA KAYA-142804016-Odev2\Odev2\obj\Debug\Odev2.pdb
